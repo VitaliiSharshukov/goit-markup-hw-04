@@ -8,6 +8,17 @@
   flex-basis: calc((100% - 24px * 3) / 4);
 }
 
+.features-icon {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f4fd;
+  margin-bottom: 8px;
+}
+
 .features-title {
   font-weight: 500;
   font-size: 20px;
