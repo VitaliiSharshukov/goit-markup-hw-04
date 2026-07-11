@@ -6,8 +6,11 @@
 
 .footer-container {
   display: flex;
-  align-items: baseline;
-  gap: 120px;
+  align-items: flex-start;
+}
+
+.footer-left {
+  margin-right: 120px;
 }
 
 .logo-footer {
